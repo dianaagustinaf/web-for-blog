@@ -1,5 +1,5 @@
-# web
+# web for blog
 Test / Template 
-Pagina web para nota periodística / blog
+Pagina web para nota / blog
 
 
